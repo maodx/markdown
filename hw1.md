@@ -1,3 +1,5 @@
+
+
 # cs 502 homewwork 1
 
 Dongxiang Mao
@@ -6,64 +8,63 @@ Dongxiang Mao
 
 play with docker
 
-![傲游截图20171101180618](D:\2017\cs-502\week1\傲游截图20171101180618.png)
+![傲游截图20171101180618](https://raw.githubusercontent.com/maodx/markdown/master/screenshots/1.png)
 
 
 
-![傲游截图20171101180634](D:\2017\cs-502\week1\傲游截图20171101180634.png)
+![傲游截图20171101180634](https://raw.githubusercontent.com/maodx/markdown/master/screenshots/2.png)
+
+Blockquote
 
 Start Zookeeper Server
 
-![傲游截图20171101181641](D:\2017\cs-502\week1\傲游截图20171101181641.png)
+![傲游截图20171101181641](https://raw.githubusercontent.com/maodx/markdown/master/screenshots/3.png)
 
 Open Zookeeper CLI
 
-![傲游截图20171101211357](D:\2017\cs-502\week1\傲游截图20171101211357.png)
+![傲游截图20171101211357](https://raw.githubusercontent.com/maodx/markdown/master/screenshots/4.png)
 
-![傲游截图20171101211414](D:\2017\cs-502\week1\傲游截图20171101211414.png)
+![傲游截图20171101211414](https://raw.githubusercontent.com/maodx/markdown/master/screenshots/5.png)
 
-![傲游截图20171101211439](D:\2017\cs-502\week1\傲游截图20171101211439.png)
+![傲游截图20171101211439](https://raw.githubusercontent.com/maodx/markdown/master/screenshots/6.png)
 
 Look up on Zookeeper & Browse Znode Data
 
-![傲游截图20171103155139](D:\2017\cs-502\week1\傲游截图20171103155139.png)
+![傲游截图20171103155139](https://raw.githubusercontent.com/maodx/markdown/master/screenshots/7.png)
 
 Create & Delete Znode Data
 
-![傲游截图20171103155200](D:\2017\cs-502\week1\傲游截图20171103155200.png)
+![傲游截图20171103155200](https://raw.githubusercontent.com/maodx/markdown/master/screenshots/10.png)
 
 Create Ephemeral Znode Data & Watcher
 
-![傲游截图20171103155229](D:\2017\cs-502\week1\傲游截图20171103155229.png)
+![傲游截图20171103155229](https://raw.githubusercontent.com/maodx/markdown/master/screenshots/11.png)
 
 Start Kafka Server
 
-![傲游截图20171103163045](D:\2017\cs-502\week1\傲游截图20171103163045.png)
+![傲游截图20171103163045](https://raw.githubusercontent.com/maodx/markdown/master/screenshots/13.png)
 
 Create Kafka Topic & Produce Messages
+![傲游截图20171103203510](https://raw.githubusercontent.com/maodx/markdown/master/screenshots/14.png)
 
-![傲游截图20171103202747](D:\2017\cs-502\week1\傲游截图20171103202747.png)
-
-![傲游截图20171103202758](D:\2017\cs-502\week1\傲游截图20171103202758.png)
+![傲游截图20171103203540](https://raw.githubusercontent.com/maodx/markdown/master/screenshots/15.png)
 
 Consume Messages
 
-![傲游截图20171103203510](D:\2017\cs-502\week1\傲游截图20171103203510.png)
+![傲游截图20171103203629](https://raw.githubusercontent.com/maodx/markdown/master/screenshots/16.png)
 
-![傲游截图20171103203540](D:\2017\cs-502\week1\傲游截图20171103203540.png)
+![傲游截图20171114234423](https://raw.githubusercontent.com/maodx/markdown/master/screenshots/17.png)
 
 Look Into Kafka Broker
 
-![傲游截图20171103203629](D:\2017\cs-502\week1\傲游截图20171103203629.png)
-
+![傲游截图20171114234443](https://raw.githubusercontent.com/maodx/markdown/master/screenshots/18.png)
 ### 代码实战课
 
 stock data producer 
 
-
-
-![傲游截图20171114234423](D:\2017\cs-502\week1\傲游截图20171114234423.png)
+![傲游截图20171114234423](https://raw.githubusercontent.com/maodx/markdown/master/screenshots/19.png)
 
 stock data consumer
 
-![傲游截图20171114234443](D:\2017\cs-502\week1\傲游截图20171114234443.png)
+![傲游截图20171114234443](https://raw.githubusercontent.com/maodx/markdown/master/screenshots/20.png)
+
